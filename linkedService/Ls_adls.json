@@ -1,0 +1,10 @@
+{
+	"name": "Ls_adls",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://sacaresnyc001.dfs.core.windows.net/"
+		}
+	}
+}
